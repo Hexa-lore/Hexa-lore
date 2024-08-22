@@ -1,6 +1,6 @@
 <h3 align="center">Hexalore</h3>
 
-<p align="center">Started building gardens so I will never have to chase butterflies again :butterfly:</p> 
+<p align="center">Started building gardens so I will never have to chase butterflies ever again :butterfly:</p> 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mimahsioson" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
