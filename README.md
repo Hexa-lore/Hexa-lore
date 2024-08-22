@@ -19,8 +19,10 @@
         <img src="https://github.com/user-attachments/assets/69656529-d688-4d4e-b101-ef2edbd42c68" alt="Postgres">
 </p>
 
-<p align='center'>As an imaginative individual, there is a plethora of ideas that I can't do with just a pen and paper. A reason why technology's transformative power has always intrigued me. Making the impossible possible. Hence, I became data-driven, result- and detail-oriented. I love showing my abilities as an individual but thrive even more with a team.</p>
+<p align="center">As an imaginative individual, there is a plethora of ideas that I can't do with just a pen and paper. A reason why technology's transformative power has always intrigued me. Making the impossible possible. Hence, I became data-driven, result- and detail-oriented. I love showing my abilities as an individual but thrive even more with a team.</p>
 
-<p align='center'>I love cats :cat2:, I enjoy playing Monster Hunter, and melt my heart by reading.</p>
+<p align="center">I love cats :cat2:, I enjoy playing Monster Hunter, and melt my heart by reading.</p>
 
-
+<p align="center">
+<a href="https://app.daily.dev/hexalore"><img src="https://api.daily.dev/devcards/v2/lOYY3FBkVyjcBki4opzB3.png?type=wide&r=n1g" width="652" alt="Hexalore's Dev Card"/></a>
+</p>
